@@ -5,3 +5,5 @@ matplotlib
 keras
 sklearn
 struct
+python_speech_features
+tqdm

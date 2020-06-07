@@ -13,6 +13,7 @@ def get_path_folder():
 path_root = get_path_folder()
 path_data = get_path_folder() + '\\data\\'
 path_train = get_path_folder() + '\\train\\'
+path_record = get_path_folder() + '\\record\\'
 
 
 # TODO: rename file
